@@ -1,4 +1,4 @@
-# C-K-Password-Generator-master
+# C-K-Password-Generator
 
 
 This project is a Java Console Application designed to create random passwords and evaluate their strength.
